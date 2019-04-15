@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football Gallery</string>
+    <string name="image_description">Image Description</string>
+    <string name="button_one">Prev</string>
+    <string name="button_two">Slide Show</string>
+    <string name="button_three">Next</string>
+</resources>
