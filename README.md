@@ -1,6 +1,9 @@
 # Wipro_Photo_Gallery
 
-### Technologies used: Android Studio, Kotlin, XML
+### Technologies used:
+1. Android Studio
+2. Kotlin
+3. XML
 
 ### Assignment Description:
 The application displays a set of photos one by one.
