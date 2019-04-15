@@ -2,7 +2,7 @@
 
 ### Technologies used: Android Studio, Kotlin, XML
 
-### Assessment Description:
+### Assignment Description:
 The application displays a set of photos one by one.
 
 The App has to be developed to show a static set of pictures which is already copied into the drawable folder in the Android 
